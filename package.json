@@ -1,0 +1,25 @@
+{
+  "name": "webpack-combine-js-assets",
+  "version": "1.0.0",
+  "description": "Webpack combine assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshgadge/webpack-combine-js-assets.git"
+  },
+  "author": "ygopensource",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshgadge/webpack-combine-js-assets/issues"
+  },
+  "homepage": "https://github.com/yogeshgadge/webpack-combine-js-assets#readme",
+  "devDependencies": {
+    "file-loader": "^1.1.6",
+    "glob": "^7.1.2",
+    "webpack": "^3.10.0"
+  }
+}
