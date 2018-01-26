@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/yogeshgadge/webpack-combine-js-assets#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^0.1.17",
+    "copy-webpack-plugin": "^4.3.1",
     "file-loader": "^1.1.6",
     "glob": "^7.1.2",
+    "html-webpack-plugin": "^2.30.1",
     "webpack": "^3.10.0"
   }
 }

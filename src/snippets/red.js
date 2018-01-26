@@ -1,3 +1,3 @@
-function red(){
+export function red(){
     return 'red';
 }
